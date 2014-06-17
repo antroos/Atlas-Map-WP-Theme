@@ -1,0 +1,2153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HostDepot\n"
+"POT-Creation-Date: 2014-05-06 15:40-0000\n"
+"PO-Revision-Date: 2014-06-16 04:11+0300\n"
+"Last-Translator: pasichnyk.ivan <pasichnyk.ivan@gmail.com>\n"
+"Language-Team: ThemesDepot <mythemesdepot@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_x;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:39
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Этот текст не може&rsquo;т быть найден."
+
+#: 404.php:44
+msgid "It looks like nothing was found at this location. "
+msgstr "Похоже, на этом месте ничего не найдено."
+
+#: 404.php:46 template-search-results.php:349
+msgid "Back To The Homepage"
+msgstr "Вернуться на Главную страницу"
+
+#: attachment.php:22 template-search-results.php:250
+#: framework/functions/theme-functions.php:259
+msgid "Home"
+msgstr "На Главную"
+
+#: comments.php:16 rev-comments.php:24
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Это сообщение защищено паролем. Введите пароль что б просмотреть комментарий."
+
+#: comments.php:33
+msgid "Add yours."
+msgstr "Добавьте."
+
+#: comments.php:38 comments.php:53 rev-comments.php:46 rev-comments.php:61
+msgid "<span class=\"meta-nav\">&laquo;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&laquo;</span> Предыдущие комментарии"
+
+#: comments.php:39 comments.php:54 rev-comments.php:47 rev-comments.php:62
+msgid "Newer Comments <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Следующие Комментарии <span class=\"meta-nav\">&raquo;</span>"
+
+#: comments.php:62
+msgid "Leave a Reply"
+msgstr "Оставить Комментарий"
+
+#: comments.php:63 rev-comments.php:71
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить Комментарий к %s"
+
+#: comments.php:64 rev-comments.php:72
+msgid "Cancel reply"
+msgstr "Отменить Комментарий"
+
+#: comments.php:65
+msgid "Post Comment"
+msgstr "Опубликовать Комментарий"
+
+#: content-gallery.php:46 content-link.php:22 content-video.php:22
+#: content.php:44
+msgid "Posted:"
+msgstr "Опубликовано:"
+
+#: content-gallery.php:49 content-link.php:25 content-video.php:25
+#: content.php:47
+msgid "By: "
+msgstr "Автор:"
+
+#: content-gallery.php:52 content-link.php:28 content-video.php:28
+#: content.php:50
+msgid "Comments: "
+msgstr "Комментарии:"
+
+#: content-gallery.php:52 content-link.php:28 content-video.php:28
+#: content.php:50
+msgid "0"
+msgstr "0"
+
+#: content-gallery.php:52 content-link.php:28 content-video.php:28
+#: content.php:50
+msgid "1"
+msgstr "1"
+
+#: content-gallery.php:58 content-link.php:34 content-page.php:37
+#: content-video.php:34 content.php:56
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-gallery.php:60 content-link.php:36 content-page.php:39
+#: content-video.php:36 content.php:60
+msgid "Pages:"
+msgstr "Страници:"
+
+#: content-listing-list-grid.php:12 content-listing-list-view.php:45
+#: content-listing.php:12 content-single-result-grid.php:19
+#: content-single-result.php:32 includes/featured-carousel.php:47
+#: includes/top-single.php:10
+msgid "Featured Listing"
+msgstr "Популярные"
+
+#: content-listing-list-grid.php:68 content-listing-list-view.php:119
+#: content-listing.php:99 content-single-result-grid.php:73
+#: content-single-result.php:104
+msgid "No rating yet."
+msgstr "Без оценки."
+
+#: content-listing-list-view.php:144 content-listing.php:108
+#: content-single-result.php:109
+msgid "Read More &raquo"
+msgstr "Читать дальше &raquo"
+
+#: content-single-listing.php:33
+msgid "You forgot to fill in your name"
+msgstr "Вы забыли заполнить Ваше имя"
+
+#: content-single-listing.php:43
+msgid "Your forgot to fill in the email address of your friend"
+msgstr "Вы забыли заполнить email адресс вашего друга"
+
+#: content-single-listing.php:47
+msgid "Wrong email format"
+msgstr "Не правильный формат email"
+
+#: content-single-listing.php:58
+msgid "You forgot to fill in your message"
+msgstr "Вы забыли написать собщение"
+
+#: content-single-listing.php:72
+msgid "Message from "
+msgstr "Сообщение от"
+
+#: content-single-listing.php:234
+msgid "Share Listing"
+msgstr "Поделится"
+
+#: content-single-listing.php:273 includes/listing-tab1.php:10
+msgid "Contact Details"
+msgstr "Контактная Информация"
+
+#: content-single-listing.php:275 framework/fields/listings_post.php:297
+#: includes/listing-tab2.php:8
+msgid "Opening Times"
+msgstr "Время открытия"
+
+#: content-single-listing.php:278 framework/fields/listings_post.php:88
+#: includes/listing-tab3.php:11
+msgid "Other Information"
+msgstr "Другая информация"
+
+#: content-single-listing.php:281 includes/listing-tab4.php:8
+msgid "Send To A Friend"
+msgstr "ОТправить Другу"
+
+#: content-single-listing.php:284 includes/listing-drivingdirections.php:13
+#: includes/listing-drivingdirections.php:125
+msgid "Get Directions"
+msgstr "Схема проезда"
+
+#: content-single-listing.php:287 framework/fields/listings_post.php:493
+#: includes/listing-promotions.php:9
+msgid "Promotions"
+msgstr "Акции"
+
+#: functions.php:46 framework/functions/core-functions.php:200
+msgid "Theme Options"
+msgstr "Параметры Темы"
+
+#: header.php:39
+#, php-format
+msgid ""
+"Hello <a href='%s'>%s</a>, you can still post <strong>%s</strong> listings. "
+"<a href='%s'>Submit listing</a> | <a href='%s'>Manage Listings</a> | <a "
+"href='%s'>Logout</a>"
+msgstr ""
+"Привет <a href='%s'>%s</a>, вы все еще можете опубликоваит  <strong>%s</"
+"strong> списки. <a href='%s'>Разместить список</a> | <a "
+"href='%s'>Редактировать список</a> | <a href='%s'>Выйти</a>"
+
+#: header.php:49
+#, php-format
+msgid "Hello <a href='%s'>%s</a>, <a href='%s'>Logout</a>"
+msgstr "Привет <a href='%s'>%s</a>, <a href='%s'>Выйти</a>"
+
+#: member-listings.php:10
+#, php-format
+msgid "Listings Submitted By %s"
+msgstr "Список опубликован %s"
+
+#: member-listings.php:76 framework/fields/listings_post.php:34
+msgid "Listing Title"
+msgstr "Название Списка"
+
+#: member-listings.php:77 member-listings.php:109
+msgid "View Listing"
+msgstr "Просмотреть Список"
+
+#: member-listings.php:128 framework/functions/frontend_dashboard.php:175
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: member-listings.php:129 framework/functions/frontend_dashboard.php:176
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы сделать совй первый пост? <a href=\"%1$s\">Начните прямо тут</a>."
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извените, но по вашему запросу ничего не найдено. Пожалуйста попробуйте "
+"ввести другие ключевые слова."
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Похоже мы не можем&rsquo;t найти что вы&rsquo;re ищите. Возможно поиск "
+"поможет"
+
+#: rev-comments.php:41
+msgid "Add your review &raquo;"
+msgstr "Оставте ваше мнение &raquo;"
+
+#: rev-comments.php:70
+msgid "Submit A Review"
+msgstr "Добавить рецензию"
+
+#: rev-comments.php:73
+msgid "Post Your Review"
+msgstr "Опубликовать рецензию"
+
+#: single-listing.php:58
+#: framework/functions/listings/favorite/wp-favorite-posts.php:111
+#: framework/functions/listings/favorite/wp-favorite-posts.php:115
+msgid "Add To Favorites"
+msgstr "Добавить в избранное"
+
+#: single-listing.php:64
+msgid "Claim Listing"
+msgstr "Черный список"
+
+#: single-listing.php:68
+msgid "Print Listing"
+msgstr "Печатать "
+
+#: single-listing.php:72
+msgid "Display Map"
+msgstr "Отобразить Карту"
+
+#: single-listing.php:96
+msgid "Only registered users can save listings to their favorites"
+msgstr "Только зарегистрированный пользователь может добавлять в избранное"
+
+#: taxonomy-listings_categories.php:161 taxonomy-listings_location.php:160
+#: taxonomy-listings_tags.php:161 template-all-listings-map.php:146
+#: template-all-listings.php:118 template-search-results.php:342
+#: framework/functions/listings/ajax-loader.php:544
+msgid "Oops! It looks like nothing was found."
+msgstr "Похоже ничего не найдено."
+
+#: taxonomy-listings_categories.php:167 taxonomy-listings_location.php:166
+#: taxonomy-listings_tags.php:167 template-all-listings-map.php:152
+#: template-all-listings.php:124 template-search-page.php:57
+#: framework/functions/theme-setup.php:534
+#: framework/functions/theme-setup.php:758 includes/search-listings.php:3
+msgid "Search For Listings"
+msgstr "Поиск по Списку"
+
+#: template-edit-listing.php:80
+msgid "Update This Listing &raquo;"
+msgstr "Опубликовать Этот Список &raquo;"
+
+#: template-edit-listing.php:93 template-edit-listing.php:131
+#: template-submit-listing.php:86
+msgid "Unauthorized Access"
+msgstr "Несканционированный Доступ"
+
+#: template-edit-listing.php:97
+msgid "You are not allowed to edit this listing."
+msgstr "Вы не можете редактировать этот список."
+
+#: template-edit-listing.php:111
+msgid "Listing Successfully Edited"
+msgstr "Списос Успешно Отредактирован"
+
+#: template-edit-listing.php:118 template-edit-listing.php:138
+msgid "Go to Listings Management &raquo;"
+msgstr "Перейдите к Управлению Списками &raquo;"
+
+#: template-edit-listing.php:135
+msgid "Visit the listings management page to modify a listing."
+msgstr "Посетите страницу управления списками для изменения списка."
+
+#: template-homepage-listings-content.php:19 template-homepage.php:59
+msgid "Enable Geolocation"
+msgstr "Включить геолокации"
+
+#: template-login.php:29
+msgid "It looks like you are already logged in."
+msgstr "Похоже, вы уже залогинились."
+
+#: template-login.php:31 template-login.php:79
+msgid "Back to the website"
+msgstr "Вернуться на сайт."
+
+#: template-login.php:52 includes/custom-tabs.php:461
+#: includes/default-tabs.php:97
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: template-login.php:53 includes/custom-tabs.php:462
+#: includes/default-tabs.php:98
+msgid "Password"
+msgstr "Пароль"
+
+#: template-login.php:54 includes/custom-tabs.php:463
+#: includes/default-tabs.php:99
+msgid "Remember Me"
+msgstr "Запомнить Меня"
+
+#: template-login.php:55 includes/custom-tabs.php:464
+#: includes/default-tabs.php:100
+msgid "Log In"
+msgstr "Войти"
+
+#: template-login.php:68
+msgid "Not Registered Yet ? Signup Now &raquo;"
+msgstr "Еще не зарегистрированы? Зарегистрируйтесь сейчас  &raquo;"
+
+#: template-login.php:75 includes/custom-tabs.php:490
+#: includes/default-tabs.php:127
+msgid "Login or Register With Facebook"
+msgstr "Войдите или Зарегистрируйтесь через Facebook"
+
+#: template-login.php:83
+msgid "Password Lost?"
+msgstr "Забыли Пароль?"
+
+#: template-password-recovery.php:37
+msgid "Your new password for the account at:"
+msgstr "Ваш новый пароль для учетной записи по адресу:"
+
+#: template-password-recovery.php:39 template-password-recovery.php:97
+#, php-format
+msgid "Username: %s"
+msgstr "Имя Пользователя: %s"
+
+#: template-password-recovery.php:40
+#, php-format
+msgid "Password: %s"
+msgstr "Пароль: %s"
+
+#: template-password-recovery.php:41
+msgid "You can now login with your new password at: "
+msgstr "Теперь вы можете войти с новым паролем по адресу:"
+
+#: template-password-recovery.php:63
+msgid "Please enter your Username or E-mail address"
+msgstr "Пожалуйста введите Ваше имя или E-mail"
+
+#: template-password-recovery.php:72
+msgid "Invalid Email Address"
+msgstr "Адресс Email не верный"
+
+#: template-password-recovery.php:79
+msgid "Invalid Username"
+msgstr "Имя Пользователя не верно"
+
+#: template-password-recovery.php:95
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "Кто то запросил изменение пароля для текущего акаунта:"
+
+#: template-password-recovery.php:98
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"Если это ошибка, просто проигнорируйте это сообщение и ничего не произойдет."
+
+#: template-password-recovery.php:99
+msgid "To reset your password, visit the following address:"
+msgstr "Для изменения пароля, перейдите по следующей ссылке:"
+
+#: template-password-recovery.php:103 template-password-recovery.php:107
+msgid "We just sent you an email."
+msgstr "Мы только отправили вам письмо."
+
+#: template-password-recovery.php:156
+msgid "Forgot your password?"
+msgstr "Забыли ваш пароль?"
+
+#: template-password-recovery.php:161
+msgid "Enter your username or email address"
+msgstr "Введите ваше имя пользователя или email"
+
+#: template-password-recovery.php:165
+msgid "Reset Password"
+msgstr "Изменить Пароль"
+
+#: template-password-recovery.php:172
+msgid "Processing"
+msgstr "Обработка"
+
+#: template-search-results.php:252 includes/search-breadcrumb.php:7
+msgid "Search Results"
+msgstr "Поиск Рещультата"
+
+#: template-search-results.php:275
+msgid "Displaying results "
+msgstr "Отобразить результаты"
+
+#: template-search-results.php:275
+msgid "of "
+msgstr "из"
+
+#: template-search-results.php:276
+msgid "For: "
+msgstr "Для:"
+
+#: template-search-results.php:347
+msgid "You might want to try with different search terms. "
+msgstr "Попробуйте искать по другим словам."
+
+#: template-submit-listing.php:71
+msgid "Submit Your Listing &raquo;"
+msgstr "Подайте ваш список &raquo;"
+
+#: template-submit-listing.php:92
+msgid "Login Now &raquo;"
+msgstr "Войдите &raquo;"
+
+#: template-submit-listing.php:93
+msgid "Register New Account &raquo;"
+msgstr "Зарегистрируйте новый акаунт &raquo;"
+
+#: template-submit-listing.php:94
+msgid "Renew Your Membership &raquo;"
+msgstr "Возобновите ваше членство &raquo;"
+
+#: framework/fields/listings_post.php:20
+msgid "Main Information"
+msgstr "Главная Информация"
+
+#: framework/fields/listings_post.php:37
+msgid "Enter the title of the listing."
+msgstr "Введите название списка"
+
+#: framework/fields/listings_post.php:48
+msgid "Listing Tags"
+msgstr "Список тегов"
+
+#: framework/fields/listings_post.php:51
+msgid ""
+"Enter the tags for this listing. Separate Each Tag with a comma. Ex: tag1, "
+"tag2, etc"
+msgstr ""
+"Введите теги для списка. Отделяйте теги запятыми. Вот так: tag1, tag2, и т. "
+"д."
+
+#: framework/fields/listings_post.php:62
+msgid "Select Listing Category"
+msgstr "Выберите Категорию"
+
+#: framework/fields/listings_post.php:65
+msgid "Select a category for this listing."
+msgstr "Выберите категорию для этого списка"
+
+#: framework/fields/listings_post.php:76
+msgid "Listing Description"
+msgstr "Описание списка"
+
+#: framework/fields/listings_post.php:79
+msgid "Enter the description for this listing."
+msgstr "Введите описание для этого списка."
+
+#: framework/fields/listings_post.php:94
+msgid "Select Listing Location Area"
+msgstr "Выберите Расположение"
+
+#: framework/fields/listings_post.php:97
+msgid "Select the location area for this listing."
+msgstr "Выберите расположение для этого списка"
+
+#: framework/fields/listings_post.php:107
+msgid "Location"
+msgstr "Расположение"
+
+#: framework/fields/listings_post.php:110
+msgid ""
+"Enter the location of this listing. <strong>Press the enter button to update "
+"the address, or simply double click on the map to set the pin location.</"
+"strong>"
+msgstr ""
+"Введите расположение для этого списка. <strong>Нажмите  Enter для  "
+"обновления адресса, или двойной щелчек на карте для что б задать "
+"расположение.</strong>"
+
+#: framework/fields/listings_post.php:119
+msgid "Coordinates Override"
+msgstr "Переопределить Координаты"
+
+#: framework/fields/listings_post.php:122
+msgid ""
+"If your location does not have an exact address please enter the coordinates "
+"here. Note: coordinates must be formatted in this way lat,lng example "
+"48.856614,2.3522219000000177"
+msgstr ""
+"Если ваше местоположение не имеет адресса, пожалуйста, введите координат "
+"сдесь. Примечание: координаты должны быть отформатированы таким образом: "
+"48.856614,2.3522219000000177"
+
+#: framework/fields/listings_post.php:132
+msgid "Telephone"
+msgstr "Телефон"
+
+#: framework/fields/listings_post.php:135
+#: framework/fields/listings_post.php:148
+msgid "Inser the phone number for contact information."
+msgstr "Вставте номер телефона для контактной информации."
+
+#: framework/fields/listings_post.php:145
+msgid "Mobile Phone Number"
+msgstr "Номер мобильного телефона."
+
+#: framework/fields/listings_post.php:158
+msgid "Alternative Email Address"
+msgstr "Альтернативний адрес почты"
+
+#: framework/fields/listings_post.php:161
+msgid ""
+"By default, the email address is grabbed by the post author, if you wish to "
+"change the email address into something else, please insert the email here, "
+"otherwise leave this field blank."
+msgstr ""
+"По умолчанию, адрес электронной почты береться из профиля автора, если вы "
+"хотите изменить адрес электронной почты на другой, пожалуйста, введите "
+"электронную почту здесь, в противном случае оставьте это поле пустым."
+
+#: framework/fields/listings_post.php:180
+#: framework/functions/theme-functions.php:149 includes/listing-tab1.php:61
+msgid "Website"
+msgstr "Сайт"
+
+#: framework/fields/listings_post.php:183
+msgid "Insert the listing website if available."
+msgstr "Вставте сайт, если он доступен."
+
+#: framework/fields/listings_post.php:193
+msgid "Facebook Profile"
+msgstr "Профиль в Facebook"
+
+#: framework/fields/listings_post.php:196
+msgid "Insert a facebook profile/page url if available."
+msgstr "Вставте профиль facebook/ url страници если он доступен"
+
+#: framework/fields/listings_post.php:206
+msgid "Twitter Profile"
+msgstr "Профиль в Twitter "
+
+#: framework/fields/listings_post.php:209
+msgid "Insert a twitter url if available."
+msgstr "Вставте url twitter "
+
+#: framework/fields/listings_post.php:219
+msgid "Google Plus Profile"
+msgstr "Google Plus профиль"
+
+#: framework/fields/listings_post.php:222
+msgid "Insert a Google Plus url if available."
+msgstr "Вставте Google Plus url"
+
+#: framework/fields/listings_post.php:232
+msgid "Instagram Profile"
+msgstr "Профиль в Instagram"
+
+#: framework/fields/listings_post.php:235
+msgid "Insert a Instagram url if available."
+msgstr "Вставте  Instagram url "
+
+#: framework/fields/listings_post.php:245
+msgid "Foursquare Profile"
+msgstr "Профиль Foursquare"
+
+#: framework/fields/listings_post.php:248
+msgid "Insert a foursquare url if available."
+msgstr "Вставьте foursquare url"
+
+#: framework/fields/listings_post.php:258
+msgid "Custom Fields Builder"
+msgstr "Создать поле пользователя"
+
+#: framework/fields/listings_post.php:261
+msgid "Here you can specify additional information about your listing."
+msgstr "Здесь вы можете указать дополнительную информацию о вашей компании."
+
+#: framework/fields/listings_post.php:265
+msgid "Field Title"
+msgstr "Название"
+
+#: framework/fields/listings_post.php:268
+msgid "Please enter the name of this field."
+msgstr "Пожалуйста, введите имя."
+
+#: framework/fields/listings_post.php:279
+msgid "Field Content"
+msgstr "Содержимое"
+
+#: framework/fields/listings_post.php:282
+msgid "Please enter the content of this field."
+msgstr "Пожалуйста, введите содержание."
+
+#: framework/fields/listings_post.php:293
+msgid "Add New Information"
+msgstr "Добавить новую информацию"
+
+#: framework/fields/listings_post.php:303 includes/listing-tab2.php:13
+msgid "Monday"
+msgstr "Понедельник"
+
+#: framework/fields/listings_post.php:306
+#: framework/fields/listings_post.php:319
+#: framework/fields/listings_post.php:332
+#: framework/fields/listings_post.php:345
+#: framework/fields/listings_post.php:358
+#: framework/fields/listings_post.php:371
+#: framework/fields/listings_post.php:384
+msgid "If available you can set opening times here."
+msgstr "Вы можете указать часы когда место открыто"
+
+#: framework/fields/listings_post.php:316 includes/listing-tab2.php:16
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: framework/fields/listings_post.php:329 includes/listing-tab2.php:19
+msgid "Wednesday"
+msgstr "Среда"
+
+#: framework/fields/listings_post.php:342 includes/listing-tab2.php:22
+msgid "Thursday"
+msgstr "Четверг"
+
+#: framework/fields/listings_post.php:355 includes/listing-tab2.php:25
+msgid "Friday"
+msgstr "Пятница"
+
+#: framework/fields/listings_post.php:368 includes/listing-tab2.php:28
+msgid "Saturday"
+msgstr "Субота"
+
+#: framework/fields/listings_post.php:381 includes/listing-tab2.php:31
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: framework/fields/listings_post.php:395
+#: framework/functions/listings/theme-specific.php:967
+#: framework/functions/listings/theme-specific.php:970
+msgid "Media"
+msgstr "Медиа"
+
+#: framework/fields/listings_post.php:401
+#: framework/functions/frontend_dashboard.php:88
+msgid "Featured Image"
+msgstr "Изображение "
+
+#: framework/fields/listings_post.php:404
+msgid ""
+"Insert the featured image for this listing. This will be the first image of "
+"your listing. <strong class=\"note-admin\">Note: this field can be used as "
+"an alternative to the normal featured image. The reason why you have this "
+"alternative is because to submit a listing from the frontend you need this "
+"field. However if you added a featured image it will display normally before "
+"this image. For more information please refer to the documentation.</strong>"
+msgstr ""
+"вставить  изображение. Это будет первое изображение. <strong class=\"note-"
+"admin\"> Примечание: это поле может быть использовано в качестве "
+"альтернативы обычному изображению. Причина, по которой у вас есть этот "
+"вариант потому, что представить список из внешнего интерфейса вам нужно это "
+"поле. Однако, если вы добавили признакам изображение он будет отображать "
+"обычно до этого образа. Для получения дополнительной информации, пожалуйста, "
+"обратитесь к документации. </ STRONG>"
+
+#: framework/fields/listings_post.php:411
+#: framework/fields/listings_post.php:421
+#: framework/fields/listings_post.php:431
+#: framework/fields/listings_post.php:441
+msgid "Additional Image"
+msgstr "Дополнительное изображение"
+
+#: framework/fields/listings_post.php:414
+#: framework/fields/listings_post.php:424
+#: framework/fields/listings_post.php:434
+#: framework/fields/listings_post.php:444
+msgid ""
+"Upload a picture. This image will be displayed after the featured image "
+"inside the gallery."
+msgstr "Загрузить фото. Это изображение будет отображаться внутри галереи."
+
+#: framework/fields/listings_post.php:452
+msgid "Insert Video ?"
+msgstr "Вставить Видео?"
+
+#: framework/fields/listings_post.php:455
+msgid ""
+"Select the video provider form the list and then type the video ID into the "
+"field below."
+msgstr ""
+"Выберите поставщик видео сформировать список, а затем введите идентификатор "
+"видео в поле ниже."
+
+#: framework/fields/listings_post.php:468
+msgid "Enter the video ID"
+msgstr "Введите ID видео"
+
+#: framework/fields/listings_post.php:471
+msgid ""
+"Enter the video ID of a video hosted on Youtube, Vimeo or DailyMotion e.g "
+"INmtQXUXez8"
+msgstr ""
+"Введите идентификатор видео из видео, размещенного на YouTube, Vimeo или "
+"DailyMotion например INmtQXUXez8"
+
+#: framework/fields/listings_post.php:499
+msgid "Add Promotions To Your Listing"
+msgstr "Добавить Акции Для позицией в каталоге"
+
+#: framework/fields/listings_post.php:502
+msgid "Press the add new promotion button to start adding promotions."
+msgstr "Нажмите кнопку Добавить продвижения, чтобы начать добавлять акции."
+
+#: framework/fields/listings_post.php:506
+msgid "Promotion Image"
+msgstr "Картинка акции"
+
+#: framework/fields/listings_post.php:509
+msgid "Upload an image for this promotion, recommended image width is 660px."
+msgstr ""
+"Загрузите изображение для продвижения, рекомендуется ширина изображения "
+"660px."
+
+#: framework/fields/listings_post.php:517
+msgid "Promotion Description"
+msgstr "Описание акции"
+
+#: framework/fields/listings_post.php:520
+msgid "Enter a description for this promotion"
+msgstr "Введите описание данной акции"
+
+#: framework/fields/listings_post.php:529
+msgid "Get Promotion Button"
+msgstr "Получить кнопку для акции"
+
+#: framework/fields/listings_post.php:532
+msgid ""
+"Use this field to add a button that will link to the promotion. If blank, no "
+"button will be added."
+msgstr ""
+"Используйте это поле, чтобы добавить кнопку, которая будет приводить к "
+"акции. Если поле пусто, кнопка не будет добавлена."
+
+#: framework/fields/listings_post.php:543
+msgid "Get Promotion URL"
+msgstr "Получить URL акции"
+
+#: framework/fields/listings_post.php:546
+msgid "Enter the url of the promotion button."
+msgstr "Ввести url акционной кнопки."
+
+#: framework/fields/listings_post.php:559
+msgid "Add New Promotion"
+msgstr "Добавить новую Акцию"
+
+#: framework/fields/listings_post.php:707
+msgid "New Listing Submission"
+msgstr "Новое обьявление"
+
+#: framework/fields/listings_post.php:708
+#: framework/fields/listings_post.php:844
+#: framework/functions/listings/theme-specific.php:277
+msgid "Atlas Admin"
+msgstr "Atlas Администратор"
+
+#: framework/fields/listings_post.php:713
+#: framework/fields/listings_post.php:849
+#: framework/functions/listings/theme-specific.php:282
+msgid "Dear Admin,"
+msgstr "Дорогой Администратор,"
+
+#: framework/fields/listings_post.php:714
+#, php-format
+msgid "The following listing has just been submitted on your %s website."
+msgstr "Следующий список был загружен на %s сайт."
+
+#: framework/fields/listings_post.php:715
+#: framework/fields/listings_post.php:771
+#: framework/fields/listings_post.php:851
+#: framework/fields/listings_post.php:882
+msgid "Listing Details"
+msgstr "Детали списка"
+
+#: framework/fields/listings_post.php:716
+#: framework/fields/listings_post.php:772
+#: framework/fields/listings_post.php:775
+#: framework/fields/listings_post.php:852
+#: framework/fields/listings_post.php:854
+#: framework/fields/listings_post.php:883
+#: framework/fields/listings_post.php:886
+msgid "-----------------"
+msgstr "-----------------"
+
+#: framework/fields/listings_post.php:717
+#: framework/fields/listings_post.php:773
+#: framework/fields/listings_post.php:853
+#: framework/fields/listings_post.php:884
+msgid "Title: "
+msgstr "Название:"
+
+#: framework/fields/listings_post.php:718
+msgid "Author: "
+msgstr "Автор:"
+
+#: framework/fields/listings_post.php:767
+#, php-format
+msgid "Your Listing Submission on %s"
+msgstr "Ваша позиция в списке %s"
+
+#: framework/fields/listings_post.php:768
+#: framework/fields/listings_post.php:879
+#, php-format
+msgid "%s Admin"
+msgstr "%s Администратор"
+
+#: framework/fields/listings_post.php:769
+#: framework/fields/listings_post.php:880
+#, php-format
+msgid "Hi %s,"
+msgstr "Здравствуйте: %s,"
+
+#: framework/fields/listings_post.php:770
+#, php-format
+msgid ""
+"Thank you for your recent submission! Your ad listing has been submitted for "
+"review and will not appear live on our site until it has been approved. "
+"Below you will find a summary of your ad listing on the %s website."
+msgstr ""
+"Спасибо! Ваше объявление  было предоставлено на рассмотрение появится в на "
+"нашем сайте, после  подтверждения администратором. Ниже вы найдете краткую "
+"информацию о вашем объявлении список на %s веб-сайте."
+
+#: framework/fields/listings_post.php:774
+#: framework/fields/listings_post.php:885
+msgid "Status: "
+msgstr "Статус:"
+
+#: framework/fields/listings_post.php:776
+#: framework/fields/listings_post.php:887
+msgid ""
+"You may check the status of your listing(s) at anytime by logging into your "
+"dashboard."
+msgstr "Вы можете проверить статус в любое время, войдя в свой акаунт."
+
+#: framework/fields/listings_post.php:778
+#: framework/fields/listings_post.php:889
+msgid "Regards,"
+msgstr "С уважением,"
+
+#: framework/fields/listings_post.php:779
+#: framework/fields/listings_post.php:890
+#, php-format
+msgid "Your %s Team"
+msgstr "Ваша %s команда"
+
+#: framework/fields/listings_post.php:843
+msgid "Review Listing Modification"
+msgstr "Обзор списка Модификаций"
+
+#: framework/fields/listings_post.php:850
+#, php-format
+msgid ""
+"The following listing has just been re-submitted and or modified on your %s "
+"website."
+msgstr "Текущий список был только что обновлен на %s сайте"
+
+#: framework/fields/listings_post.php:855
+#, php-format
+msgid "Review Listing: %s"
+msgstr "Обзор списка: %s"
+
+#: framework/fields/listings_post.php:878
+#, php-format
+msgid "Your Listing Modification on %s"
+msgstr "Ваш список модифицирован на %s"
+
+#: framework/fields/listings_post.php:881
+#, php-format
+msgid ""
+"Thank you for your recent modification! Your listing modification has been "
+"submitted for review and will not appear live on our site until it has been "
+"approved. Below you will find a summary of your ad listing on the %s website."
+msgstr ""
+"Спасибо за ваше недавнее модификации! Ваш изменения в список были "
+"представлены ​​на рассмотрение и появится сразу после одобрения модератором. "
+"Ниже вы найдете краткую информацию о вашем объявлении на  %s  веб-сайте. "
+
+#: framework/fields/theme_options.php:448
+msgid "Multi Rating Box Position"
+msgstr "Позиция Multi Rating Box"
+
+#: framework/fields/theme_options.php:451
+msgid "Select where you'd like to display the multi rating box."
+msgstr "Выберити где вы хотите отображать Multi rating Box"
+
+#: framework/fields/theme_options.php:462
+msgid "Multi Set ID Number"
+msgstr "Multi Set ID номер"
+
+#: framework/fields/theme_options.php:478
+msgid "Align Rating Stars"
+msgstr "Рейтинг"
+
+#: framework/fields/theme_options.php:2451
+msgid "Skin Type"
+msgstr "Внешний Вид"
+
+#: framework/fields/theme_options.php:2454
+msgid ""
+"Select the skin type. Select the option \"Custom Skin\" if you wish to use "
+"the custom controls below here."
+msgstr ""
+"Выбор внешнего вида. Выберите option \"Custom Skin\" если хотите "
+"использовать custom controls  далее."
+
+#: framework/fields/theme_options.php:2471
+#: framework/functions/theme-customizer.php:107
+msgid "Topbar Gradient Start"
+msgstr "Topbar Gradient Start"
+
+#: framework/fields/theme_options.php:2478
+#: framework/functions/theme-customizer.php:113
+msgid "Topbar gradient end"
+msgstr "Topbar gradient end"
+
+#: framework/fields/theme_options.php:2485
+#: framework/functions/theme-customizer.php:118
+msgid "Topbar text color"
+msgstr "Topbar цвет текста"
+
+#: framework/fields/theme_options.php:2492
+#: framework/functions/theme-customizer.php:123
+msgid "Topbar links color"
+msgstr "Topbar цвет ссылок"
+
+#: framework/fields/theme_options.php:2499
+#: framework/functions/theme-customizer.php:128
+msgid "Header Color"
+msgstr "Header Color"
+
+#: framework/fields/theme_options.php:2506
+#: framework/functions/theme-customizer.php:133
+msgid "Header Links Color"
+msgstr "Header Links Color"
+
+#: framework/fields/theme_options.php:2513
+#: framework/functions/theme-customizer.php:138
+msgid "Header Active Link Color"
+msgstr "Header Active Link Color"
+
+#: framework/fields/theme_options.php:2520
+#: framework/functions/theme-customizer.php:144
+msgid "Homepage Sidebar Bg Color"
+msgstr "Homepage Sidebar Bg Color"
+
+#: framework/fields/theme_options.php:2527
+#: framework/functions/theme-customizer.php:150
+msgid "Homepage Sidebar Tabs Bg Color"
+msgstr "Homepage Sidebar Tabs Bg Color"
+
+#: framework/fields/theme_options.php:2534
+#: framework/functions/theme-customizer.php:156
+msgid "Homepage Sidebar Tabs Icon Color"
+msgstr "Homepage Sidebar Tabs Icon Color"
+
+#: framework/fields/theme_options.php:2541
+#: framework/functions/theme-customizer.php:162
+msgid "Homepage Sidebar Tabs Icon Active Color"
+msgstr "Homepage Sidebar Tabs Icon Active Color"
+
+#: framework/fields/theme_options.php:2548
+#: framework/functions/theme-customizer.php:167
+msgid "Homepage Sidebar Tabs Headings Color"
+msgstr "Homepage Sidebar Tabs Headings Color"
+
+#: framework/fields/theme_options.php:2555
+#: framework/functions/theme-customizer.php:173
+msgid ""
+"Theme Main Color (Use this option to change the color of various elements of "
+"the theme, quick and easy)"
+msgstr ""
+"Theme Main Color (используйте это опцию для изменения отдельных елементов "
+"темы, быстро и легко)"
+
+#: framework/fields/theme_options.php:2562
+#: framework/functions/theme-customizer.php:179
+msgid "Body Font Color"
+msgstr "Body Font Color"
+
+#: framework/fields/theme_options.php:2569
+#: framework/functions/theme-customizer.php:185
+msgid "Body Background Color"
+msgstr "Body Background Colo"
+
+#: framework/fields/theme_options.php:2576
+#: framework/functions/theme-customizer.php:190
+msgid "Map Pulse Animation Bg Color"
+msgstr "Map Pulse Animation Bg Color"
+
+#: framework/fields/theme_options.php:2583
+#: framework/functions/theme-customizer.php:195
+msgid "Top Footer Background Color"
+msgstr "Top Footer Background Color"
+
+#: framework/fields/theme_options.php:2590
+#: framework/functions/theme-customizer.php:201
+msgid "Bottom Footer Background Color"
+msgstr "Bottom Footer Background Color"
+
+#: framework/fields/theme_options.php:2597
+#: framework/functions/theme-customizer.php:207
+msgid "Bottom Footer Border Color"
+msgstr "Bottom Footer Border Color"
+
+#: framework/fields/theme_options.php:2604
+#: framework/functions/theme-customizer.php:213
+msgid "Footer Font Color"
+msgstr "Footer Font Color"
+
+#: framework/functions/class-tgm-plugin-activation.php:164
+#: framework/functions/required_plugins.php:122
+msgid "Install Required Plugins"
+msgstr "Установите требуемые Плагины"
+
+#: framework/functions/class-tgm-plugin-activation.php:165
+#: framework/functions/required_plugins.php:123
+msgid "Install Plugins"
+msgstr "Установите Плагины"
+
+#: framework/functions/class-tgm-plugin-activation.php:166
+#: framework/functions/required_plugins.php:124
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Плагин Устанавливаеться: %s"
+
+#: framework/functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Что то пошло не так."
+
+#: framework/functions/class-tgm-plugin-activation.php:178
+#: framework/functions/class-tgm-plugin-activation.php:490
+#: framework/functions/required_plugins.php:136
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к Плагинам которые следует установить"
+
+#: framework/functions/class-tgm-plugin-activation.php:179
+#: framework/functions/class-tgm-plugin-activation.php:1846
+#: framework/functions/required_plugins.php:137
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован успешно."
+
+#: framework/functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно %1$s"
+
+#: framework/functions/class-tgm-plugin-activation.php:517
+#: framework/functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Вернуться к Панеле управления"
+
+#: framework/functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "Плагин установлен успешно: %s."
+
+#: framework/functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Игнорировать это уведомление"
+
+#: framework/functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Внешняя ссылка"
+
+#: framework/functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Приватный репозиторий"
+
+#: framework/functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Предварительно Упаковынные"
+
+#: framework/functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress репозиторий"
+
+#: framework/functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Необходимо"
+
+#: framework/functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Рекомендуеться"
+
+#: framework/functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Не установлено"
+
+#: framework/functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "Установлено но не активировано"
+
+#: framework/functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Нету плагинов для установки или активации <a href=\"%1$s\" title=\"Return to "
+"the Dashboard\">Вернуться к панеле управления</a>"
+
+#: framework/functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Плагин"
+
+#: framework/functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Источник"
+
+#: framework/functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Тип"
+
+#: framework/functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Статус"
+
+#: framework/functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Установить"
+
+#: framework/functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Активировать"
+
+#: framework/functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Установленый пакет не доступен."
+
+#: framework/functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Скайчайте пакет для установки с <span class=\"code\">%s</span>&#8230;"
+
+#: framework/functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Распакуйте пакет&#8230;"
+
+#: framework/functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Установите плагин&#8230;"
+
+#: framework/functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "При установке произошла ошибка."
+
+#: framework/functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Плагин установлен успешно."
+
+#: framework/functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "При активировании произошла ошибка."
+
+#: framework/functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Процес установки и активации начался. Процес может занять некоторое время, "
+"будьте терпеливы."
+
+#: framework/functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и акативирован успешно."
+
+#: framework/functions/class-tgm-plugin-activation.php:1956
+#: framework/functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Показать детали."
+
+#: framework/functions/class-tgm-plugin-activation.php:1956
+#: framework/functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: framework/functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации выполнены успешно."
+
+#: framework/functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установи и активируйте плагин %1$s (%2$d/%3$d)"
+
+#: framework/functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процес установке начался. Этот процес может занять какое то время, будьте "
+"терпеливы."
+
+#: framework/functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: framework/functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка на %1$s закрешилась."
+
+#: framework/functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s установлено успешно."
+
+#: framework/functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Все установки завершены успешно."
+
+#: framework/functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установите плагин %1$s (%2$d/%3$d)"
+
+#: framework/functions/core-functions.php:209
+msgid "Customize Layout"
+msgstr "Настроить расположение"
+
+#: framework/functions/cpt.php:486
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: framework/functions/cpt.php:487 framework/functions/cpt.php:599
+msgid "Add New "
+msgstr "Добавить новое"
+
+#: framework/functions/cpt.php:488 framework/functions/cpt.php:596
+msgid "Edit "
+msgstr "Редактировать"
+
+#: framework/functions/cpt.php:489 framework/functions/cpt.php:600
+msgid "New "
+msgstr "Новое"
+
+#: framework/functions/cpt.php:490 framework/functions/cpt.php:597
+msgid "View "
+msgstr "Вид"
+
+#: framework/functions/cpt.php:491 framework/functions/cpt.php:603
+msgid "Search "
+msgstr "Поиск"
+
+#: framework/functions/cpt.php:492 framework/functions/cpt.php:493
+#: framework/functions/cpt.php:608 framework/functions/cpt.php:762
+msgid "No "
+msgstr "Нет"
+
+#: framework/functions/cpt.php:494 framework/functions/cpt.php:601
+#: framework/functions/cpt.php:602
+msgid "Parent "
+msgstr "Родительская"
+
+#: framework/functions/cpt.php:595
+msgid "All "
+msgstr "Все"
+
+#: framework/functions/cpt.php:598
+msgid "Update "
+msgstr "Обновить"
+
+#: framework/functions/cpt.php:604
+msgid "Popular "
+msgstr "Популярные"
+
+#: framework/functions/cpt.php:605
+msgid "Seperate "
+msgstr "Отдельный"
+
+#: framework/functions/cpt.php:606
+msgid "Add or remove "
+msgstr "Добавить или удалить"
+
+#: framework/functions/cpt.php:607
+msgid "Choose from most used "
+msgstr "Выбрать из наиболее часто используемых"
+
+#: framework/functions/cpt.php:664
+msgid "Title"
+msgstr "Название"
+
+#: framework/functions/cpt.php:691
+msgid "Date"
+msgstr "Дата"
+
+#: framework/functions/frontend_dashboard.php:71
+#, php-format
+msgid "Welcome To Your Dashboard %s"
+msgstr "Добро пожаловать в Панель Управления %s"
+
+#: framework/functions/frontend_dashboard.php:76
+#, php-format
+msgid "You have added a total of <span>%d</span> %s"
+msgstr "Вы добавили в общей сложности <span>%d</span> %s"
+
+#: framework/functions/frontend_dashboard.php:92
+#, php-format
+msgid "%s Title"
+msgstr "%s Название"
+
+#: framework/functions/frontend_dashboard.php:95
+#, php-format
+msgid "%s Status"
+msgstr "%s Статус"
+
+#: framework/functions/frontend_dashboard.php:100
+msgid "Payment"
+msgstr "Оплата"
+
+#: framework/functions/frontend_dashboard.php:104
+#, php-format
+msgid "Manage %s"
+msgstr "Править %s"
+
+#: framework/functions/frontend_dashboard.php:123
+msgid "No Image"
+msgstr "Без картинки"
+
+#: framework/functions/frontend_dashboard.php:152
+msgid "Edit"
+msgstr "Редактировать"
+
+#: framework/functions/frontend_dashboard.php:158
+msgid "Delete"
+msgstr "Удалить"
+
+#: framework/functions/frontend_dashboard.php:189
+#, php-format
+msgid "No %s found"
+msgstr "Не %s Найдено"
+
+#: framework/functions/frontend_dashboard.php:220
+msgid "The selected post has been deleted."
+msgstr "Выбраный пост был удален."
+
+#: framework/functions/frontend_dashboard.php:223
+msgid "You are not allowed to delete this post."
+msgstr "У вас нет доступа что б удалить этот пост."
+
+#: framework/functions/required_plugins.php:125
+msgid "Something went wrong with the plugin API."
+msgstr "Что то не так c API плагина."
+
+#: framework/functions/required_plugins.php:138
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и активированы успешно. %s"
+
+#: framework/functions/theme-customizer.php:43
+msgid "Default"
+msgstr "По Умолчанию"
+
+#: framework/functions/theme-customizer.php:73
+msgid "Theme Skin"
+msgstr "Вид Темы"
+
+#: framework/functions/theme-customizer.php:78
+msgid "Theme Skin Style"
+msgstr "Стиль Темы"
+
+#: framework/functions/theme-customizer.php:99
+msgid "Site Title"
+msgstr "Название Сайта"
+
+#: framework/functions/theme-functions.php:43
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: framework/functions/theme-functions.php:44
+msgid "Footer Menu"
+msgstr "Footer Menu"
+
+#: framework/functions/theme-functions.php:45
+msgid "Responsive Menu"
+msgstr "Responsive Menu"
+
+#: framework/functions/theme-functions.php:105
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: framework/functions/theme-functions.php:147
+msgid "Name"
+msgstr "Имя"
+
+#: framework/functions/theme-functions.php:148
+msgid "Email"
+msgstr "Email"
+
+#: framework/functions/theme-functions.php:181
+msgid "Your comment is awaiting moderation."
+msgstr "Маш комментарий ожидает мадерации."
+
+#: framework/functions/theme-functions.php:187
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: framework/functions/theme-functions.php:206
+msgid "Pingback:"
+msgstr "Обратная связь:"
+
+#: framework/functions/theme-functions.php:260
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Архив по Категориям \"%s\""
+
+#: framework/functions/theme-functions.php:261
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Поиск результатов по \"%s\" Query"
+
+#: framework/functions/theme-functions.php:262
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Сообщение с Тегами \"%s\""
+
+#: framework/functions/theme-functions.php:263
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Статьи опубликованы %s"
+
+#: framework/functions/theme-functions.php:264
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: framework/functions/theme-functions.php:375
+msgid "Page"
+msgstr "Страница"
+
+#: framework/functions/theme-functions.php:430
+msgid "Next Entries"
+msgstr "Следующие записи"
+
+#: framework/functions/theme-functions.php:440
+msgid "Previous Entries"
+msgstr "Предыдущие записи"
+
+#: framework/functions/theme-functions.php:474 includes/custom-tabs.php:447
+#: includes/default-tabs.php:83
+msgid "Logout"
+msgstr "Выйти"
+
+#: framework/functions/theme-functions.php:618
+msgid ""
+"The theme requires the \"Hangar Shortcodes Pack\" module to be enabled. "
+"Please navigate to <a href=\""
+msgstr ""
+"Теме необходим модуль \"Hangar Shortcodes Pack\" для включения Пожалуйста "
+"перейдите по <a href=\""
+
+#: framework/functions/theme-setup.php:279
+msgid "Captcha Validation Failed"
+msgstr "Проверка капчи провалилась с треском :)"
+
+#: framework/functions/theme-setup.php:339
+msgid "Select A Category"
+msgstr "Выберите Категорию"
+
+#: framework/functions/theme-setup.php:372
+msgid "Select An Area"
+msgstr "Выберите расположение"
+
+#: framework/functions/theme-setup.php:482
+msgid "Select a Category &raquo;"
+msgstr "Выберите категорию &raquo;"
+
+#: framework/functions/theme-setup.php:511
+msgid "Select A Location &raquo;"
+msgstr "Выберите расположение &raquo;"
+
+#: framework/functions/theme-setup.php:535
+msgid "What are you looking for ?"
+msgstr "Что вы ищите?"
+
+#: framework/functions/theme-setup.php:548
+msgid "Select A Category:"
+msgstr "Выберите категорию"
+
+#: framework/functions/theme-setup.php:557
+msgid "Select A Subcategory"
+msgstr "ВЫберите подкатегорию"
+
+#: framework/functions/theme-setup.php:560
+msgid "Select A Category First"
+msgstr "Выберите первую категорию"
+
+#: framework/functions/theme-setup.php:568
+msgid "Listing Category"
+msgstr "Список категорий"
+
+#: framework/functions/theme-setup.php:570
+msgid "All Categories"
+msgstr "Все категории"
+
+#: framework/functions/theme-setup.php:587
+msgid "Select A Location"
+msgstr "Выберите месторасположение"
+
+#: framework/functions/theme-setup.php:596
+msgid "Select The Area"
+msgstr "Выберите область"
+
+#: framework/functions/theme-setup.php:599
+msgid "Select A Location First"
+msgstr "Выберите первоначальное месторасположение"
+
+#: framework/functions/theme-setup.php:606
+msgid "Listing Location"
+msgstr "Сипсок месторасположений"
+
+#: framework/functions/theme-setup.php:608
+msgid "All Locations"
+msgstr "Все местоположения"
+
+#: framework/functions/theme-setup.php:624
+msgid "Display All Listings"
+msgstr "Отобразить все списки"
+
+#: framework/functions/theme-setup.php:624
+msgid "Display Only Featured Listings"
+msgstr "Отобразить только лучшие"
+
+#: framework/functions/theme-setup.php:786
+msgid ""
+"Warning: to allow users to post from the front-end you need to change the "
+"default registration user role. Please navigate to \"Settings\" -> \"General"
+"\" and change the option \"New User Default Role\" to \"Listing Contributor"
+"\"."
+msgstr ""
+"Предупреждение: что б разрешить пользователям постить с фронтенда вам "
+"необходимо поменять первоначальную роль пользователя. Пожалуйста перейдите  "
+"\"Settings\" -> \"General\" и измените опцию \"New User Default Role\" на "
+"\"Listing Contributor\"."
+
+#: framework/functions/listings/ajax-loader.php:123
+#: framework/functions/listings/ajax-loader.php:125
+#: includes/custom-tabs.php:171 includes/custom-tabs.php:285
+#: includes/custom-tabs.php:394 includes/default-tabs.php:241
+#: includes/default-tabs.php:347 includes/popup-image.php:20
+#: includes/popup-image.php:24
+msgid "Read More &raquo;"
+msgstr "Читать далее &raquo;"
+
+#: framework/functions/listings/theme-specific.php:11
+msgid "0 View"
+msgstr "0 Просмотров"
+
+#: framework/functions/listings/theme-specific.php:13
+msgid " Views"
+msgstr "Просмотров"
+
+#: framework/functions/listings/theme-specific.php:63
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: framework/functions/listings/theme-specific.php:225
+msgid "Published"
+msgstr "Опубликовано"
+
+#: framework/functions/listings/theme-specific.php:227
+msgid "Draft"
+msgstr "Проект"
+
+#: framework/functions/listings/theme-specific.php:229
+msgid "Awaiting Approval"
+msgstr "Ожидает проверки"
+
+#: framework/functions/listings/theme-specific.php:231
+msgid "Scheduled"
+msgstr "Расписание"
+
+#: framework/functions/listings/theme-specific.php:233
+msgid "Private"
+msgstr "Приватно"
+
+#: framework/functions/listings/theme-specific.php:276
+msgid "A listing has been claimed."
+msgstr "Список был подтвержден."
+
+#: framework/functions/listings/theme-specific.php:283
+#, php-format
+msgid "A listing has just been claimed on your %s website."
+msgstr "Список был только что утвержден на %s сайте."
+
+#: framework/functions/listings/theme-specific.php:284
+#, php-format
+msgid "Review Claim: %s"
+msgstr "Рассмотрение жалоб: %s"
+
+#: framework/functions/listings/theme-specific.php:303
+#, php-format
+msgid "Hi %s, your listing %s has just been published at %s. Well done!"
+msgstr ""
+"Приветствуем %s,ваш список %s только что был опубликован %s. Поздравляем!"
+
+#: framework/functions/listings/theme-specific.php:322
+msgid ""
+"Hello admin! Looks like you did not setup the google map type! Please "
+"navigate to <a href=\""
+msgstr ""
+"Привет админ, похоже не засетапил карты великого Google. Пожалуйста перейди "
+"по <a href=\""
+
+#: framework/functions/listings/theme-specific.php:937
+#: framework/functions/listings/theme-specific.php:940
+msgid "Dashboard"
+msgstr "Панель Управления"
+
+#: framework/functions/listings/theme-specific.php:943
+#: framework/functions/listings/theme-specific.php:946
+msgid "Posts"
+msgstr "Сообщения"
+
+#: framework/functions/listings/theme-specific.php:949
+#: framework/functions/listings/theme-specific.php:952
+msgid "Listings"
+msgstr "Обьявления"
+
+#: framework/functions/listings/theme-specific.php:955
+#: framework/functions/listings/theme-specific.php:958
+msgid "Tools"
+msgstr "Инструменты"
+
+#: framework/functions/listings/theme-specific.php:961
+#: framework/functions/listings/theme-specific.php:964
+msgid "Contact"
+msgstr "Контакты"
+
+#: framework/functions/listings/theme-specific.php:1052
+msgid "Submitted Listings"
+msgstr "Обьявление Опубликовано"
+
+#: framework/functions/listings/theme-specific.php:1072
+msgid "View All Listings From This Author"
+msgstr "Посмотреть все материалы этого автора"
+
+#: framework/functions/listings/theme-specific.php:1116
+#: framework/functions/listings/theme-specific.php:1214
+msgid "View Listings"
+msgstr "Посмотреть обьявления"
+
+#: framework/functions/listings/theme-specific.php:1207
+msgid "Sub Categories"
+msgstr "Подкатегории"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:5
+msgid "Cheatin&#8217; uh?"
+msgstr "Cheatin&#8217; uh?"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:46
+msgid "Options saved."
+msgstr "Опции сохранены."
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:50
+msgid "Favorite Posts Configuration"
+msgstr "Конфигурация лучших постов"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:63
+#: framework/functions/listings/favorite/tdp_fav-admin.php:85
+#: framework/functions/listings/favorite/tdp_fav-admin.php:234
+#: framework/functions/listings/favorite/tdp_fav-admin.php:255
+msgid "Click to open/close"
+msgstr "Нажмите для открытия/закрытия"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:66
+msgid "Do you use it ?"
+msgstr "Вы это используете?"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:88
+msgid "Options"
+msgstr "Опции"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:93
+msgid "Only <strong>registered users</strong> can favorite"
+msgstr ""
+"Только  <strong>зарегистрированные пользователи</strong> могут добавлять в "
+"избранное"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:97
+msgid "Auto show favorite link"
+msgstr "Показывать избранные ссылки автоматически"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:109
+msgid "Before Link Image"
+msgstr "Изображение перед ссылкой"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:140
+msgid "Favorite post per page"
+msgstr "Лучший пост на странице"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:146
+msgid "Most favorited posts statics"
+msgstr "Статистика лучших постов"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:171
+#: framework/functions/listings/favorite/tdp_fav-admin.php:226
+#: framework/functions/listings/favorite/tdp_fav-admin.php:248
+msgid "Update options &raquo;"
+msgstr "Обновить опции &raquo;"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:183
+msgid "Label Settings"
+msgstr "Настройки лейбла"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:189
+msgid "Text for add link"
+msgstr "текст для добавлению ссылки"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:192
+msgid "Text for added"
+msgstr "Текст для добавления"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:196
+msgid "Text for remove link"
+msgstr "Текст для удаления ссылки"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:199
+msgid "Text for removed"
+msgstr "Текст для удаления"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:205
+msgid "Text for clear link"
+msgstr "Текст для очистки линка"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:208
+msgid "Text for cleared"
+msgstr "Текст для очистки"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:211
+msgid "Text for favorites are empty"
+msgstr "Текст для избранного отсутствует"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:214
+msgid "Text for [remove] link"
+msgstr "Текст для [remove] ссылки"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:217
+msgid "Text for favorites saved to cookies"
+msgstr "Текст для избранных сохраненных to cookies"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:220
+msgid "Text for \"only registered users can favorite\" error message"
+msgstr ""
+"Текст для \"только зарегистрированные пользователи могут лайкать \" "
+"сообщение о ошибке"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:237
+msgid "Advanced Settings"
+msgstr "Расширенные настройки"
+
+#: framework/functions/listings/favorite/tdp_fav-admin.php:258
+msgid "Help"
+msgstr "Помощь"
+
+#: framework/functions/listings/favorite/tdp_fav-page-template.php:1
+msgid "Favorites"
+msgstr "Избранное"
+
+#: framework/functions/listings/favorite/tdp_fav-page-template.php:6
+msgid "Listing Name"
+msgstr "Сипсок Имя"
+
+#: framework/functions/listings/favorite/tdp_fav-page-template.php:7
+msgid "Actions"
+msgstr "Действия"
+
+#: framework/functions/listings/favorite/tdp_fav-page-template.php:36
+msgid "No Favorites Yet"
+msgstr "Пока нету избранных"
+
+#: framework/functions/listings/favorite/tdp_fav-widgets.php:29
+#: framework/functions/listings/favorite/tdp_fav-widgets.php:82
+msgid "Title:"
+msgstr "Название:"
+
+#: framework/functions/listings/favorite/tdp_fav-widgets.php:34
+#: framework/functions/listings/favorite/tdp_fav-widgets.php:87
+msgid "Number of posts to show:"
+msgstr "Количество сообщений к показу:"
+
+#: framework/functions/listings/favorite/wp-favorite-posts.php:22
+msgid "All Favorites Removed"
+msgstr "Удалить все избранное"
+
+#: framework/functions/listings/favorite/wp-favorite-posts.php:109
+#: framework/functions/listings/favorite/wp-favorite-posts.php:113
+msgid "Remove Favorite"
+msgstr "Удалить избранное"
+
+#: framework/functions/listings/favorite/wp-favorite-posts.php:327
+msgid "Remove From Favorites"
+msgstr "Удалить из избранного"
+
+#: framework/functions/listings/favorite/wp-favorite-posts.php:335
+msgid "Remove All Favorites"
+msgstr "Удалить все избранное"
+
+#: includes/custom-tabs.php:88 includes/custom-tabs.php:195
+#: includes/custom-tabs.php:309 includes/default-tabs.php:157
+#: includes/default-tabs.php:265
+msgid "Submit your featured listing &raquo;"
+msgstr "Загрузить ваш избранниый список &raquo;"
+
+#: includes/custom-tabs.php:420 includes/default-tabs.php:56
+msgid ""
+"This is the user area here you can have a quick overwiew of your profile and "
+"manange your listings."
+msgstr ""
+"Это область пользователь здесь вы можете просмотреть ваш профил и управлять "
+"списками."
+
+#: includes/custom-tabs.php:424 includes/default-tabs.php:60
+msgid "Your Membership is:"
+msgstr "Ваше членство:"
+
+#: includes/custom-tabs.php:426 includes/default-tabs.php:62
+#, php-format
+msgid "You can still post %s more listings"
+msgstr "Вы можете по прежденему %s добавлять списки"
+
+#: includes/custom-tabs.php:428 includes/default-tabs.php:64
+msgid "Membership Information:"
+msgstr "Информации о членстве:"
+
+#: includes/custom-tabs.php:434 includes/default-tabs.php:70
+msgid ""
+"It seems that you don't a membership, please register for a membership by "
+"clicking the link below here"
+msgstr "Пожалейста зарегистрируйтесь нажав по линку ниже"
+
+#: includes/custom-tabs.php:438 includes/default-tabs.php:74
+msgid "Register For A Membership"
+msgstr "Зарегистрируйтесь "
+
+#: includes/custom-tabs.php:442 includes/default-tabs.php:78
+msgid "Visit Your Dashboard &raquo;"
+msgstr "Посетите вашу панель управления &raquo;"
+
+#: includes/custom-tabs.php:452 includes/default-tabs.php:88
+msgid "This is our login area, if you have an account please login here."
+msgstr "Это место для входа, если у вас есть акайнт, войдите пожалуйста."
+
+#: includes/custom-tabs.php:480 includes/default-tabs.php:116
+msgid "Register now if you don't have an account &raquo;"
+msgstr "Зарегистрируйтесь сейчас, если у вас еще нету акаунта &raquo;"
+
+#: includes/custom-tabs.php:494 includes/default-tabs.php:131
+msgid "Lost Password ?"
+msgstr "Забыли пароль?"
+
+#: includes/custom-tabs.php:532 includes/default-tabs.php:384
+#: includes/search-listings.php:12
+msgid "Search Listings"
+msgstr "Поиск по списку"
+
+#: includes/custom-tabs.php:533 includes/default-tabs.php:385
+msgid "By Address"
+msgstr "По Адрессу"
+
+#: includes/custom-tabs.php:550 includes/default-tabs.php:402
+#: includes/search-listings.php:34
+msgid "Start Typing"
+msgstr "Начните вводить"
+
+#: includes/custom-tabs.php:551 includes/default-tabs.php:403
+#: includes/search-listings.php:35
+msgid "Enter an address, zipcode or city"
+msgstr "Введите адрес, почтовый индекс или город"
+
+#: includes/default-tabs.php:38
+msgid ""
+"Looks like the homepage content is empty, please add some content to the "
+"homepage."
+msgstr ""
+"Похоже, содержание домашней страницы пустое, пожалуйста, добавте содержимое "
+"на главную страницу."
+
+#: includes/default-tabs.php:50
+msgid "User Area"
+msgstr "Зона пользователя"
+
+#: includes/default-tabs.php:151
+msgid "Featured Listings"
+msgstr "Избранные списки"
+
+#: includes/default-tabs.php:155 includes/default-tabs.php:263
+msgid "This is our list of premier destinations."
+msgstr "Это наш список главных направлений."
+
+#: includes/default-tabs.php:259
+msgid "Latest Listings"
+msgstr "Список последних"
+
+#: includes/default-tabs.php:365
+msgid "Listings Search"
+msgstr "Поиск списков"
+
+#: includes/default-tabs.php:369
+msgid "Are you looking for something special? Try looking through our listings"
+msgstr "Ищите что то особенное? Попробуйте искать через наш список"
+
+#: includes/default-tabs.php:432
+msgid "Categories Filter"
+msgstr "Фильтра категорий"
+
+#: includes/default-tabs.php:436
+msgid "Select the category you wish to display on the map."
+msgstr "Выберите категории для отображения на карте."
+
+#: includes/featured-carousel.php:31
+msgid "Featured"
+msgstr "Популярные"
+
+#: includes/listing-drivingdirections.php:108
+msgid "From"
+msgstr "С"
+
+#: includes/listing-drivingdirections.php:111
+msgid "Via (optional)"
+msgstr "Via (опционно)"
+
+#: includes/listing-drivingdirections.php:116
+msgid "Travel Mode"
+msgstr "Режим путешествия"
+
+#: includes/listing-drivingdirections.php:117
+msgid "Driving"
+msgstr "На Автомобиле"
+
+#: includes/listing-drivingdirections.php:118
+msgid "Bicycling"
+msgstr "На Велосипеде"
+
+#: includes/listing-drivingdirections.php:119
+msgid "Public Transport"
+msgstr "Публичный транспорт"
+
+#: includes/listing-drivingdirections.php:120
+msgid "Walking"
+msgstr "Пешком"
+
+#: includes/listing-tab1.php:15
+msgid "Address:"
+msgstr "Адресс:"
+
+#: includes/listing-tab1.php:29
+msgid "GPS:"
+msgstr "GPS:"
+
+#: includes/listing-tab1.php:41
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/listing-tab1.php:51
+msgid "Mobile Phone"
+msgstr "Мобильный телефон"
+
+#: includes/listing-tab1.php:72
+msgid "Social Profiles"
+msgstr "Социальный профиль"
+
+#: includes/listing-tab4.php:12
+msgid "Message Successfully Sent"
+msgstr "Сообщение успешно отправлено"
+
+#: includes/listing-tab4.php:22
+msgid "Your Name"
+msgstr "Ваше имя"
+
+#: includes/listing-tab4.php:31
+msgid "Friend Email Address"
+msgstr "Почта друга"
+
+#: includes/listing-tab4.php:40
+msgid "Message For Your Friend"
+msgstr "Сообщение для вашего друга"
+
+#: includes/listing-tab4.php:41
+msgid "Hey check this out: "
+msgstr "Ей, проверь это:"
+
+#: includes/listing-tab4.php:48
+msgid "Send Message"
+msgstr "Отправить сообщение"
+
+#: includes/search-listings.php:14
+msgid "Search By Address"
+msgstr "Поиск по адрессам"
+
+#: includes/theme-claimingform.php:3
+msgid "Claim This Listing ?"
+msgstr "Утвердить этот список?"
+
+#: includes/theme-claimingform.php:12
+msgid "Your Full Name"
+msgstr "Ваше полное имя"
+
+#: includes/theme-claimingform.php:13
+msgid "Enter your full name."
+msgstr "Введите Ваше полное Имя."
+
+#: includes/theme-claimingform.php:18
+msgid "Your Email Address"
+msgstr "Ваша електронная почта"
+
+#: includes/theme-claimingform.php:19
+msgid ""
+"Enter your email address, this is where we will send you a response for your "
+"claim."
+msgstr "Введите адрес электронной почты, куда отправить ответ на ваш запрос."
+
+#: includes/theme-claimingform.php:24
+msgid "Your Phone Number"
+msgstr "Ваш номер телефона"
+
+#: includes/theme-claimingform.php:25
+msgid "Enter your phone number (optional)"
+msgstr "Введите ваш номер телефона(не обязательно)"
+
+#: includes/theme-claimingform.php:30
+msgid "Listing Url"
+msgstr "Адрес сайта, URL"
+
+#: includes/theme-claimingform.php:31
+msgid "You are currently claiming the following listing"
+msgstr "Вы подтверждаете текущий список?"
+
+#: includes/theme-claimingform.php:36
+msgid "Your Message"
+msgstr "Ваше сообщение"
+
+#: includes/theme-claimingform.php:37
+msgid ""
+"Please enter a message and provide us more details about your business and "
+"why you would like to claim this listing."
+msgstr ""
+"Пожалуйста, введите сообщение и предоставить нам более подробную информацию "
+"о вашем бизнесе и почему вы хотите быть тут."
+
+#: includes/theme-claimingform.php:42
+msgid "How Much Is 2+2?"
+msgstr "Сколько будет 2+2?"
+
+#: includes/theme-claimingform.php:47
+msgid "Submit Claim &raquo;"
+msgstr "Оставить заявку &raquo;"
+
+#: includes/theme-displaybar.php:35
+msgid "Order By: Newest First"
+msgstr "Сортировать по принципу: сначала новые"
+
+#: includes/theme-displaybar.php:36
+msgid "Order By: Oldest First"
+msgstr "Сортировать по: старые сверху"
+
+#: includes/theme-displaybar.php:37
+msgid "Order By: Name A-Z"
+msgstr "Сортировать по алфовиту: А-Я"
+
+#: includes/theme-displaybar.php:38
+msgid "Order By: Name Z-A"
+msgstr "Сортировать по алфовиту: Я-А"
+
+#: includes/theme-displaybar.php:39
+msgid "Featured Listings Only"
+msgstr "Только избранное"
+
+#: includes/theme-displaybar.php:53 includes/theme-displaybar.php:58
+msgid "Grid View"
+msgstr "Сетка"
+
+#: includes/theme-displaybar.php:54 includes/theme-displaybar.php:59
+msgid "List View"
+msgstr "Список"
+
+#: includes/theme-graph.php:23
+msgid "Recent Page Views:"
+msgstr "Последние просмотры страницы:"
+
+#: includes/top-search.php:7
+msgid "Searching: "
+msgstr "Поиск:"
+
+#: includes/top-search.php:7
+msgid "Searching all listings"
+msgstr "Искать все списки"
+
+#: includes/top-search.php:7
+msgid "listings found"
+msgstr "Списоки найдены"
+
+#: includes/top-search.php:7
+msgid "listing found"
+msgstr "Список найден"
+
+#: includes/top-single.php:52
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: includes/top-single.php:74
+msgid "- Not Rated Yet"
+msgstr "- без оценки"
